@@ -7,12 +7,12 @@
 
 int main(int argc, char const *argv[])
 {
-	int i = 9;
+    int i = 9;
     do
-	{
-		printf("%d\n", i);
-		i--;
-	} while(i);
+    {
+        printf("%d\n", i);
+        i--;
+    } while (i);
     return 0;
 }
 ```

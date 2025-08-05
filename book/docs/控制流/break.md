@@ -8,14 +8,14 @@
 int main(int argc, char const *argv[])
 {
     int i;
-    for(i = 1; i < 10; i++)
-	{
-		if (i == 6)
-		{
-			break;
-		}
-		printf("%d\n", i);
-	}
+    for (i = 0; i < 10; i++)
+    {
+        if (i == 6)
+        {
+            break;
+        }
+        printf("%d\n", i);
+    }
     return 0;
 }
 ```

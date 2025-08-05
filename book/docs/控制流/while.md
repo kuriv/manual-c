@@ -8,7 +8,7 @@
 int main(int argc, char const *argv[])
 {
     int i = 9;
-    while(i)
+    while (i)
     {
         printf("%d\n", i);
         i--;
