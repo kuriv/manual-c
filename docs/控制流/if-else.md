@@ -7,8 +7,8 @@
 
 int main(int argc, char const *argv[])
 {
-    int a = 233;
-    if (a > 0)
+    int i = 233;
+    if (i > 0)
     {
         printf("Yes.\n");
     }

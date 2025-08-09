@@ -7,8 +7,8 @@
 
 int main(int argc, char const *argv[])
 {
-    char a = '6';
-    switch (a)
+    char c = '6';
+    switch (c)
     {
     	case 'a':
     		printf("Letter a.\n");

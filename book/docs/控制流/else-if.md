@@ -7,12 +7,12 @@
 
 int main(int argc, char const *argv[])
 {
-    char a = '6';
-    if (a >= 'a' && a <= 'z' || a >= 'A' && a <= 'Z')
+    char c = '6';
+    if (c >= 'a' && c <= 'z' || c >= 'A' && c <= 'Z')
 	{
 		printf("Letter.\n");
 	}
-	else if (a >= '0' && a <= '9')
+	else if (c >= '0' && c <= '9')
 	{
 		printf("Number.\n");
 	}
