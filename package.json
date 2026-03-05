@@ -1,10 +1,11 @@
 {
   "name": "manual-c",
-  "version": "1.0.1",
-  "description": "C 手册",
+  "version": "1.0.2",
+  "description": "C 是一种通用程序设计语言，广泛用于系统软件与应用软件的开发。",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gitbook serve ./ ./book"
   },
   "repository": {
     "type": "git",
